@@ -1,0 +1,11 @@
+.content{
+    background-color: #00ffe1;
+    height: 150px;
+    width: 450px;
+}
+.content-2{
+    background-color: #deded1;
+    width: 90%;
+    height: 90%;
+    padding: 50px;
+}
